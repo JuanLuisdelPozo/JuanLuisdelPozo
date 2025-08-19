@@ -14,7 +14,7 @@ Fuera del trabajo y del aprendizaje me ha interesado siempre la cultura en todas
 - 🌱 Estoy aprendiendo sobre **software de IoT**, **React**, **Next.js**, **NestJS**, **Python** y **MQTT**, además de profundizar en **Flask y Django**, esto último por mi cuenta en algunos proyectos perosnales.  
 - 👯 Busco colaborar en proyectos de **software libre**, **automatización de pruebas** e iniciativas que unan **tecnología y conciencia social**, me daría igual hacerlo como desarrollador o como comunicador.  
 
-- 📫 Si pudiera ser de ayuda para cualquiera de tus proyectos, puedes contactarme vía LinkedIn: [LinkedIn DeepCodes ES](https://www.linkedin.com/in/juanluisdelpozo/)  
+- 📫 Si pudiera ser de ayuda para cualquiera de tus proyectos, puedes contactarme vía LinkedIn: [LinkedIn Juan Luis del Pozo](https://www.linkedin.com/in/juanluisdelpozo/)  
 
 ---
 
@@ -24,6 +24,7 @@ Fuera del trabajo y del aprendizaje me ha interesado siempre la cultura en todas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
