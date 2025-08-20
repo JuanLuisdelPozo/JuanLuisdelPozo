@@ -7,7 +7,7 @@ Soy **desarrollador de software**, aún en modo aprendizaje.
 
 ## 🚀 Detalles profesionales 
 
-- 🔭 Actualmente trabajo como **desarrollador de software junior** y me encargo de la **estrategia de comunicación** de los proyectos tecnológicos y otros aspectos de la empresa.  
+- 🔭 Actualmente trabajo como **desarrollador de software junior** y me encargo, además, de la **estrategia de comunicación** de los proyectos tecnológicos y otros aspectos de la empresa. Esto forma parte de mi carrera que ahora está tornando al mundo del desarrollo, pero vengo de más de 20 años dedicado a la comunicación institucional. En mi trabajo actual uno ambas cosas. Por un lado ejerzo como responsable de comunicación, por otro continúo mi desarrollo como programador junior.  
 - 🌱 Estoy aprendiendo sobre **software de IoT**, **React**, **Next.js**, **NestJS**, **Python** y **MQTT**, además de profundizar en **Flask y Django**, esto último por mi cuenta en algunos proyectos perosnales.  
 - 👯 Busco colaborar en proyectos de **software libre**, **automatización de pruebas** e iniciativas que unan **tecnología y conciencia social**, me daría igual hacerlo como desarrollador o como comunicador.
 
