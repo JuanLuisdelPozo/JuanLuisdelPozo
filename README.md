@@ -1,17 +1,18 @@
 # Bienvenido o bienvenida:
 ![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Soy%20Juan%20Luis%20del%20Pozo&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-Soy **desarrollador de software** aún en modo aprendizaje como junior en **DeepCodes** y, aquí sí tengo experiencia, **me ocupo de la comunicación institucional** del **Grupo Ocho Caños**.
-
-Fuera del trabajo y del aprendizaje me ha interesado siempre la cultura en todas sus expresiones, especialmente la música (blues, soul y rock and roll). 
+Soy **desarrollador de software**, aún en modo aprendizaje.
 
 ---
 
-## 🚀 Sobre mí  
+## 🚀 Detalles profesionales 
 
-- 🔭 Actualmente trabajo como **desarrollador de software junior** y me encargo de la **estrategia de comunicación** de los proyectos tecnológicos y otros aspectos de mi empresa.  
+- 🔭 Actualmente trabajo como **desarrollador de software junior** y me encargo de la **estrategia de comunicación** de los proyectos tecnológicos y otros aspectos de la empresa.  
 - 🌱 Estoy aprendiendo sobre **software de IoT**, **React**, **Next.js**, **NestJS**, **Python** y **MQTT**, además de profundizar en **Flask y Django**, esto último por mi cuenta en algunos proyectos perosnales.  
-- 👯 Busco colaborar en proyectos de **software libre**, **automatización de pruebas** e iniciativas que unan **tecnología y conciencia social**, me daría igual hacerlo como desarrollador o como comunicador.  
+- 👯 Busco colaborar en proyectos de **software libre**, **automatización de pruebas** e iniciativas que unan **tecnología y conciencia social**, me daría igual hacerlo como desarrollador o como comunicador.
+
+- Estoy muy interesado en el mundo del testing automático con Python. De momento sólo a nivel personal y teórico, pero seguro que más adelante encontraré un hueco donde poder desarrollar esa faceta.
+- Fuera del trabajo y del aprendizaje me ha interesado siempre la cultura en todas sus expresiones, especialmente la música (blues, soul y rock and roll).
 
 - 📫 Si pudiera ser de ayuda para cualquiera de tus proyectos, puedes contactarme vía LinkedIn: [LinkedIn Juan Luis del Pozo](https://www.linkedin.com/in/juanluisdelpozo/)  
 
