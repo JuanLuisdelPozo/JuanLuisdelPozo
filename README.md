@@ -1,5 +1,4 @@
-# 👋 Hola, soy Juan Luis del Pozo.
-
+# Bienvenido o bienvenida:
 ![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Juan%20Luis%20del%20Pozo&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 Soy **desarrollador de software** aún en modo aprendizaje como junior en **DeepCodes** y, aquí sí tengo experiencia, **me ocupo de la comunicación institucional** del **Grupo Ocho Caños**.
